@@ -1,7 +1,9 @@
 
-# makemore
+# MakeMore
 
 makemore is the most accessible way of tinkering with a GPT.
+
+### Description
 
 The one-file script `makemore.py` takes one text file as input, where each line is assumed to be one training thing, and generates more things like it. For example, we can feed it a database of names, and then use it to generate new cool baby name ideas that sound name-like, but are not already existing names. Or if we feed it a database of company names then we can generate new ideas for a name of a company. Or we can just feed it valid scrabble words and generate english-like babble.
 
